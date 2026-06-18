@@ -25,7 +25,7 @@ A robust financial management platform engineered to handle secure user authenti
     * Implemented advanced **MongoDB Aggregation Pipelines** to deliver real-time monthly spending breakdowns and budget status metrics.
     * Secured all financial endpoints using **JWT authentication with HttpOnly cookies** to eliminate cross-site scripting (XSS) risks.
 * **Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, React, Tailwind CSS
-* **Links:https://github.com/Neekbillzz
+* **Links:** https://github.com/Neekbillzz
 
 #### ☀️ Nickzander Energytech Solutions – Corporate Platform
 The digital architecture and platform infrastructure for a modern solar energy services provider, driving client engagement and service deployment.
@@ -64,7 +64,7 @@ I believe that backend development isn't just about making things work—it’s 
 I am always open to discussing backend architecture, API integrations, or full-stack engineering opportunities.
 
 * **Email:** abidum20012@gmail.com
-* **LinkedIn:https://linkedin.com/in/abilinicholas
-* **GitHub:https://github.com/Neekbillzz
+* **LinkedIn:** https://linkedin.com/in/abilinicholas
+* **GitHub:** https://github.com/Neekbillzz
 
 ---
