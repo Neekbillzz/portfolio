@@ -25,7 +25,7 @@ A robust financial management platform engineered to handle secure user authenti
     * Implemented advanced **MongoDB Aggregation Pipelines** to deliver real-time monthly spending breakdowns and budget status metrics.
     * Secured all financial endpoints using **JWT authentication with HttpOnly cookies** to eliminate cross-site scripting (XSS) risks.
 * **Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, React, Tailwind CSS
-* **Links:** [📂 GitHub Repository](https://github.com/Neekbillz)
+* **Links:https://github.com/Neekbillz
 
 #### ☀️ Nickzander Energytech Solutions – Corporate Platform
 The digital architecture and platform infrastructure for a modern solar energy services provider, driving client engagement and service deployment.
@@ -37,7 +37,7 @@ The digital architecture and platform infrastructure for a modern solar energy s
     * Built a robust centralized error-handling middleware to gracefully process client validation errors and prevent server crashes.
     * Integrated secure third-party communication layers for automated client inquiry routing.
 * **Tech Stack:** Node.js, Express.js, MongoDB, Tailwind CSS, JavaScript
-* **Links:** [📂 GitHub Repository](https://github.com/yourusername/nzenergytech) | [🌐 Live Platform Link](https://nzenergytech.com)
+
 
 ---
 
@@ -63,8 +63,8 @@ I believe that backend development isn't just about making things work—it’s 
 
 I am always open to discussing backend architecture, API integrations, or full-stack engineering opportunities.
 
-* **Email:** [your.email@example.com](abidum20012@gmail.com)
-* **LinkedIn:** [/in/your-profile](https://linkedin.com/in/abilinicholas)
-* **GitHub:** [@yourusername](https://github.com/Neekbillzz)
+* **Email:** abidum20012@gmail.com
+* **LinkedIn:https://linkedin.com/in/abilinicholas
+* **GitHub:https://github.com/Neekbillzz
 
 ---
